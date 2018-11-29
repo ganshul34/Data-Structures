@@ -1,0 +1,1 @@
+## 	Write a program to accept N numbers from the user in one array and M numbers in another array. Then, sort the arrays using Selection Sort and then merge these two arrays using **Merge Sort**.
